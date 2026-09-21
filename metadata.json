@@ -1,0 +1,6 @@
+{
+  "name": "Velo Market Pulse Bot",
+  "description": "Daily crypto market analytics brief bot powered by Velo data and Gemini AI with automated PDF generation and Discord delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

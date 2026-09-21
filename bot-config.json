@@ -1,0 +1,14 @@
+{
+  "discordWebhookUrl": "https://discord.com/api/webhooks/1544025991741968469/9YkOUPzzzrJrRzXlu1ucan7IrzdPZ7t-c8KtGltuN4Hqzg_BCm3LzQQiT4SR_uci-yth",
+  "discordBotToken": "MTU0NDA3NzE4MjQ1NDk4ODg3MA.GUoBuK.iVcEKsv1lfWfP3eGMhNz2mPoTCUCo1GuHXzFWA",
+  "botName": "Velo Market Bot",
+  "avatarUrl": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=128&auto=format&fit=crop&q=80",
+  "dailySendTimeUtc": "05:00",
+  "autoSendEnabled": true,
+  "notifyOnSuccess": true,
+  "includePdfAttachment": true,
+  "includeSummaryEmbed": true,
+  "lastRunTimestamp": "2026-09-16T20:40:27.519Z",
+  "lastCronPingTimestamp": "2026-09-08T17:42:11.917Z",
+  "lastRunDate": "2026-09-16"
+}

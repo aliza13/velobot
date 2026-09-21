@@ -1,0 +1,88 @@
+[
+  {
+    "id": "log-1789591227519",
+    "timestamp": "2026-09-16T20:40:27.519Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-16)",
+    "reportId": "brief-2026-09-16-1789591226926",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-16.pdf to Discord!",
+    "durationMs": 1537
+  },
+  {
+    "id": "log-1789409117550",
+    "timestamp": "2026-09-14T18:05:17.550Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-14)",
+    "reportId": "brief-2026-09-14-1789409116677",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-14.pdf to Discord!",
+    "durationMs": 1904
+  },
+  {
+    "id": "log-1789335327825",
+    "timestamp": "2026-09-13T21:35:27.825Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-13)",
+    "reportId": "brief-2026-09-13-1789335325478",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-13.pdf to Discord!",
+    "durationMs": 3584
+  },
+  {
+    "id": "log-1789242576996",
+    "timestamp": "2026-09-12T19:49:36.996Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-12)",
+    "reportId": "brief-2026-09-12-1789242576353",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-12.pdf to Discord!",
+    "durationMs": 5625
+  },
+  {
+    "id": "log-1788889365964",
+    "timestamp": "2026-09-08T17:42:45.964Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-08)",
+    "reportId": "brief-2026-09-08-1788889365079",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-08.pdf to Discord!",
+    "durationMs": 7236
+  },
+  {
+    "id": "cron-1788889331917",
+    "timestamp": "2026-09-08T17:42:11.917Z",
+    "status": "SUCCESS",
+    "message": "Cron Heartbeat #1 received",
+    "details": "Source: curl/7.88.1 • Container awake & active"
+  },
+  {
+    "id": "cron-1788801057489",
+    "timestamp": "2026-09-07T17:10:57.489Z",
+    "status": "SUCCESS",
+    "message": "Cron Heartbeat #1 received",
+    "details": "Source: curl/7.88.1 • Container awake & active"
+  },
+  {
+    "id": "log-1788800651899",
+    "timestamp": "2026-09-07T17:04:11.899Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-07)",
+    "reportId": "brief-2026-09-07-1788800648436",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-07.pdf to Discord!",
+    "durationMs": 16287
+  },
+  {
+    "id": "log-1788363680647",
+    "timestamp": "2026-09-02T15:41:20.647Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-09-02)",
+    "reportId": "brief-2026-09-02-1788363679828",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-09-02.pdf to Discord!",
+    "durationMs": 19694
+  },
+  {
+    "id": "log-1788197194969",
+    "timestamp": "2026-08-31T17:26:34.969Z",
+    "status": "SUCCESS",
+    "message": "Successfully sent Daily Brief PDF to Discord (2026-08-31)",
+    "reportId": "brief-2026-08-31-1788197194465",
+    "details": "Successfully posted daily brief and attached Velo_Daily_Brief_2026-08-31.pdf to Discord!",
+    "durationMs": 35006
+  }
+]
